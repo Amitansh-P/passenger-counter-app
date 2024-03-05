@@ -23,11 +23,6 @@ https://amitansh-p.github.io/passenger-counter-app/
 - CSS
 - JavaScript
 
-## Screenshots
-
-![App Screenshot](![image](https://github.com/Amitansh-P/passenger-counter-app/assets/156566286/e538d1c4-dfb7-4ce7-87d3-57db23a7a431)
-)
-
 ## Getting Started
 
 To get started with the app, simply clone this repository to your local machine and open the `index.html` file in a web browser.
