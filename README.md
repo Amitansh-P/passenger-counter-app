@@ -2,6 +2,9 @@
 
 This is a simple Passenger Counter App created using JavaScript. The app allows users to count the number of passengers boarding and alighting a vehicle. It can be used for various purposes such as buses, trains, or any scenario where passenger counting is required.
 
+##Click here to visit
+https://amitansh-p.github.io/passenger-counter-app/
+
 ## Features
 
 - **Increment and Decrement:** Easily increase or decrease the passenger count with dedicated buttons.
@@ -11,9 +14,8 @@ This is a simple Passenger Counter App created using JavaScript. The app allows 
 ## How to Use
 
 1. Open the `index.html` file in a web browser.
-2. Click the "+" button to increment the passenger count.
-3. Click the "-" button to decrement the passenger count.
-4. Click the "Reset" button to set the count back to zero.
+2. Click the "increment" button to increment the passenger count.
+3. Click the "Save" button to set the count back to zero.
 
 ## Technologies Used
 
@@ -23,7 +25,8 @@ This is a simple Passenger Counter App created using JavaScript. The app allows 
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](![image](https://github.com/Amitansh-P/passenger-counter-app/assets/156566286/e538d1c4-dfb7-4ce7-87d3-57db23a7a431)
+)
 
 ## Getting Started
 
